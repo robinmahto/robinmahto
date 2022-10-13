@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Robin Mahto</h1>
-<h3 align="center">A passionate full stack developer - javaScript | web | mobile</h3>
+<h3 align="center">A Passionate Full Stack Developer - JavaScript | Web | Mobile</h3>
 
 <p align="left"> <a href="https://twitter.com/robin_mahto" target="blank"><img src="https://img.shields.io/twitter/follow/robin_mahto?logo=twitter&style=for-the-badge" alt="robin_mahto" /></a> </p>
 
