@@ -54,5 +54,5 @@
    <a href="https://twitter.com/robin_mahto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekyshow1" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/robin-mahto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irenicraj" height="30" width="40" /></a>
   <a href="https://instagram.com/robin_mahto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekyshow1" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_p-512.png" alt="portfolio" height="30" width="30" /></a>
+<!--   <a href="#" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_p-512.png" alt="portfolio" height="30" width="30" /></a> -->
 </p>
