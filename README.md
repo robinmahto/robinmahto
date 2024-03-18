@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin Mahto</h1>
-<h3 align="center">A Passionate Software Developer - JavaScript | TypeScript</h3>
+<h3 align="center">A Passionate Software Engineer - JavaScript | TypeScript</h3>
 
 <p align="left"> <a href="https://twitter.com/robin_mahto" target="blank"><img src="https://img.shields.io/twitter/follow/robin_mahto?logo=twitter&style=for-the-badge" alt="robin_mahto" /></a> </p>
 
